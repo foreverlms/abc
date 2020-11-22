@@ -32,3 +32,5 @@
 *.app
 
 .virtual_documents
+.idea
+.ipynb_checkpoints
