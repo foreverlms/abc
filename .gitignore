@@ -34,3 +34,8 @@
 .virtual_documents
 .idea
 .ipynb_checkpoints
+
+./dl/.ipynb_checkpoints
+./dl/.virtual_documents
+
+download/
